@@ -1,1 +1,1 @@
-export const MAX_BREATH_DURATION = 60;
+export const MAX_BREATH_DURATION = 30;
